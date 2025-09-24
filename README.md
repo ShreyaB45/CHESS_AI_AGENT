@@ -3,8 +3,6 @@
 A simple chess game implemented in Python using the Pygame library.
 It features a basic AI that calculates the optimal move by peeking DEPTH moves ahead. The AI assesses positions and scores only.
 
-![Untitled video - Made with Clipchamp](https://github.com/anuragjain-git/chess/assets/98457054/bfdea7e5-502b-4852-a2c9-115ea32e45da)
-
 ## Introduction
 
 This is a basic implementation of a chess game with a graphical user interface. The game allows two players to make moves on a standard chessboard. Additionally, there is an AI opponent that uses negamax algorithm, alpha beta pruining for move selection.
@@ -41,15 +39,16 @@ In chess, the en passant rule allows a pawn to capture an opponent's pawn that h
 
 1. **Initial Position:**:
 
-   <img src="https://github.com/anuragjain-git/chess/assets/98457054/1b92957b-1126-4771-8ffb-e3fe7a77b4ca" alt="Chessboard" width="400"/>
+<img width="1188" height="844" alt="Screenshot 2025-09-24 212116" src="https://github.com/user-attachments/assets/68eaa7ce-67c2-4513-885b-798d92628aef" />
 
 2. **Opponent's Move:**
 
-   <img src="https://github.com/anuragjain-git/chess/assets/98457054/bba26e9f-86b2-421b-99b0-a0e7c73a49d9" alt="Chessboard" width="400"/>
+   <img width="1193" height="852" alt="image" src="https://github.com/user-attachments/assets/ba4e3165-b04b-4bfa-802c-d0e576df76ae" />
+
 
 3. **En Passant Capture:**
+    <img width="1189" height="846" alt="image" src="https://github.com/user-attachments/assets/564b17c0-d3ef-432b-8f9b-0bd752882158" />
 
-    <img src="https://github.com/anuragjain-git/chess/assets/98457054/d77b5e0c-cd11-41e2-86d1-687267586c63" alt="Chessboard" width="400"/>
 
 ## Pawn Promotion:
 
@@ -57,11 +56,11 @@ In chess, pawn promotion occurs when a pawn reaches the eighth rank. The pawn ca
 
 1. **Reach the Eighth Rank**:
     
-   <img src="https://github.com/anuragjain-git/chess/assets/98457054/9d33967c-6d19-478c-bb23-8737e4325510" alt="Chessboard" width="400"/>
+  <img width="1194" height="839" alt="image" src="https://github.com/user-attachments/assets/064d8095-a816-46d9-ae09-b2ca97f9650e" />
 
 2. **Select the Promotion Piece**:
 
-   <img src="https://github.com/anuragjain-git/chess/assets/98457054/42fc5e0e-f782-4d55-a454-37c13dd39ffa" alt="Chessboard" width="400"/>
+  <img width="1197" height="845" alt="image" src="https://github.com/user-attachments/assets/e9ba9884-d32a-4049-aa1b-7a475065984e" />
 
 ## How to Play
 
@@ -109,7 +108,8 @@ The game will automatically handle the rules of chess, including legal moves, ca
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/anuragjain-git/chess-bot.git
+   git clone git remote add origin https://github.com/ShreyaB45/CHESS_AI_AGENT.git
+
    
 2. Navigate to the project directory:
    
